@@ -8,3 +8,8 @@ ONLINE LEARNING PLATFORM
 Aim
 To provide accessible, high-quality education through innovative online courses that empower
 learners to develop skills, achieve personal growth, and succeed in their chosen fields.
+
+
+Development and Testing
+Front-End Development:
+∗ HTML, CSS, and JavaScript frameworks.
