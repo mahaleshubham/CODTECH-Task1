@@ -4,3 +4,7 @@ An e-learning platform is a digital solution designed to facilitate online educa
 
 Domain:
 ONLINE LEARNING PLATFORM
+
+Aim
+To provide accessible, high-quality education through innovative online courses that empower
+learners to develop skills, achieve personal growth, and succeed in their chosen fields.
